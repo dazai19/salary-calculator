@@ -47,7 +47,7 @@ namespace PayPort_calc
             {
                 TimeSpan intrval = tempDate2 - tempDate1;
                 int hoursCount = Convert.ToInt32(intrval.Hours);
-                hoursCount--;
+                if (hoursCount > 1) { hoursCount--; }
 
                 if (checkBox2.IsChecked == false)
                 {

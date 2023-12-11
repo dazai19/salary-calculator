@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayPort_calc", "PayPort_calc\PayPort_calc.csproj", "{E5710DCE-86CC-4B7B-B642-9A190047F829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalaryCalculator", "PayPort_calc\SalaryCalculator.csproj", "{E5710DCE-86CC-4B7B-B642-9A190047F829}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
