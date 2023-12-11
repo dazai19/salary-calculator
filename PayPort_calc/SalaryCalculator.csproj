@@ -6,10 +6,15 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <Platforms>AnyCPU;x86</Platforms>
+    <ApplicationIcon>calculator.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="download.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="calculator.ico" />
   </ItemGroup>
 
   <ItemGroup>
