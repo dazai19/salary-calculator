@@ -66,7 +66,7 @@ namespace PayPort_calc
 
 
         /// <summary>
-        /// Доплата за ночные в день
+        /// Доплата за ночные часы
         /// </summary>
         /// <param name="temp1">сумма</param>
         /// <param name="tempDate2">время окончания смены</param>
